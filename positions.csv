@@ -1,0 +1,8 @@
+game,move,agent,player,board,win,loss,threat,center,corner,potential,heuristic,nodes_evaluated,nodes_pruned
+1,1,NEXUS,X,      X  ,0,0,0,0,112,15,127,105,21
+1,2,TITAN,O,     OX  ,0,0,0,0,-4,-1,-5,328,98
+1,3,NEXUS,X,    XOX  ,0,0,133,130,112,20,395,101,15
+1,4,TITAN,O,O   XOX  ,0,0,-5,-5,0,-1,-11,76,45
+1,5,NEXUS,X,O   XOX X,0,0,266,130,112,10,518,31,6
+1,6,TITAN,O,OO  XOX X,0,0,-5,-5,-4,-1,-15,12,9
+1,7,NEXUS,X,OO  XOXXX,100,0,0,0,0,0,100,3,1
